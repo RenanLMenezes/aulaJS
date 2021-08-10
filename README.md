@@ -1,2 +1,2 @@
-# aulaJS
-Aula Dio JS
+# Curso DIO de Js
+Curso introdutório ao JS.
