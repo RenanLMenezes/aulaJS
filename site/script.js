@@ -1,4 +1,5 @@
-function button(){
+//Quinta Aula
+/*function button(){
     document.getElementById("click").innerHTML = "apertou"
     
     //alert("Apertou")
